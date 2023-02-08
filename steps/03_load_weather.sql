@@ -9,6 +9,9 @@ Last Updated: 1/9/2023
 -- SNOWFLAKE ADVANTAGE: Visual Studio Code Snowflake native extension (PrPr, Git integration)
 
 
+--Weather Source LLC: frostbyte
+--FROSTBYTE_WEATHERSOURCE
+
 USE ROLE HOL_ROLE;
 USE WAREHOUSE HOL_WH;
 
